@@ -34,7 +34,7 @@ putchar(num1);
 putchar(num2);
 putchar(num3);
 if (num1 == 55 && num2 == 56 && num3 == 57)
-continue
+continue;
 putchar(44);
 putchar(32);
 }
